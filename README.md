@@ -34,3 +34,10 @@ $ cd examples/client && skaffold dev
 ```
 
 and then open browser with url: localhost
+![resgate01](https://github.com/GrassShrimp/resgate-demo/blob/master/resgate01.png)
+
+
+## Reference
+
+- [restgat.io](https://resgate.io/)
+- [go-res/02-edit-text](https://github.com/jirenius/go-res/tree/master/examples/02-edit-text)
